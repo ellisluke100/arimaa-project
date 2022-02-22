@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/ArimaaProject">
+        <file>gcamel.png</file>
+        <file>gcat.png</file>
+        <file>gelephant.png</file>
+        <file>gdog.png</file>
+        <file>grabbit.png</file>
+        <file>ghorse.png</file>
+        <file>scamel.png</file>
+        <file>scat.png</file>
+        <file>sdog.png</file>
+        <file>selephant.png</file>
+        <file>shorse.png</file>
+        <file>srabbit.png</file>
+    </qresource>
+</RCC>

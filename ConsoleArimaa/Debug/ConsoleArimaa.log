@@ -1,0 +1,5 @@
+﻿  Board.cpp
+  Game.cpp
+  Generating Code...
+C:\Dev\ConsoleArimaa\Game.cpp(76): warning C4715: 'Game::getDir': not all control paths return a value
+  ConsoleArimaa.vcxproj -> C:\Dev\ConsoleArimaa\Debug\ConsoleArimaa.exe
